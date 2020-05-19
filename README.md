@@ -1,16 +1,16 @@
-# THREE-EngineEditorCamera
-A game engine editor-type camera for convenient traversal through three.js scenes
+# EngineEditorCamera
+## A game engine editor-type camera for easy traversal through [three.js](https://threejs.org) scenes
 
 [LIVE DEMO](https://nevr.to/02)
 
 Featuring:
 * smooth scene traversal - right click + W/A/S/D/Q/E to get around
 
-* right click + shift+WASDEQ to go faster
+* right click + **shift** + WASDEQ to go faster
 
 * mouse scroll wheel up/down to increase/decrease camera movement speed
 
-* camera persistence - location, rotation and movement speed persist over refreshes (extra convenient for hot reloading)  
+* session persistence: location, rotation and movement speed persist over refreshes (extra convenient for hot reloading)  
 
 
 ## Instructions:
